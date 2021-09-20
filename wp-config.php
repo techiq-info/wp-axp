@@ -67,9 +67,6 @@ define( 'WP_CACHE_KEY_SALT', 'zE=moGu$Izc7]l5/OH!-F(tJdB{5:m)j3FXrtw;(NUX~qOUfxd
  */
 $table_prefix = 'wp_';
 
-
-
-
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
