@@ -1,0 +1,48 @@
+# Translation of Plugins - Visibility Logic for Elementor - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Visibility Logic for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-07 12:51:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Visibility Logic for Elementor - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Visibility Logic for Elementor"
+msgstr "לוגיקת נראות עבור אלמנטור"
+
+#: core/settings/UserRoleVisibility.php:65
+#: core/settings/BrowserTypeVisiblity.php:73
+#: core/settings/OldVersionFallback.php:126
+#: core/settings/UserMetaVisibility.php:66
+#: core/settings/DateTimeVisibility.php:66
+#: core/settings/GeneralVisibility.php:78
+#: core/settings/GeneralVisibility.php:126
+msgid "No"
+msgstr "לא"
+
+#: core/settings/UserRoleVisibility.php:64
+#: core/settings/BrowserTypeVisiblity.php:72
+#: core/settings/OldVersionFallback.php:125
+#: core/settings/UserMetaVisibility.php:65
+#: core/settings/DateTimeVisibility.php:65
+#: core/settings/GeneralVisibility.php:77
+#: core/settings/GeneralVisibility.php:125
+msgid "Yes"
+msgstr "כן"
+
+#: core/settings/OldVersionFallback.php:122
+msgid "Enable Conditions"
+msgstr "הפעל תנאים"
+
+#: core/settings/OldVersionFallback.php:151
+msgid "Hidden for:"
+msgstr "מוסתר עבור:"
+
+#: core/settings/OldVersionFallback.php:135
+msgid "Visible for:"
+msgstr "מוצג עבור:"

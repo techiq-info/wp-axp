@@ -1,0 +1,895 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CreditGuard\n"
+"POT-Creation-Date: 2021-02-27 15:42+0530\n"
+"PO-Revision-Date: 2021-02-27 15:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: Maxstore Cloud Platforms\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: helpers/creditguard.php:21 helpers/creditguard.php:53
+#: helpers/creditguard.php:60 helpers/creditguard.php:124
+#: helpers/creditguard.php:143 helpers/main.php:47 helpers/main.php:48
+msgid "CreditGuard"
+msgstr "קרדיט גארד"
+
+#: helpers/creditguard.php:22 helpers/creditguard.php:136
+msgid ""
+"This payment gateway is setup specifically for client billing accounts. "
+"Orders will be processed and billed directly to existing client accounts."
+msgstr ""
+"שער תשלום זה מוגדר במיוחד עבור חשבונות חיוב של לקוחות. הזמנות יעובדו ויחויבו "
+"ישירות לחשבונות לקוח קיימים."
+
+#: helpers/creditguard.php:85
+msgid "On / off"
+msgstr "פעיל / כבוי"
+
+#: helpers/creditguard.php:87
+msgid "Mark to enable the payment gateway"
+msgstr "סמנו בכדי לאפשר את שער התשלום"
+
+#: helpers/creditguard.php:91
+msgid "Enable Iframe"
+msgstr "לאפשר IFRAME"
+
+#: helpers/creditguard.php:93
+msgid "Tick to enable the Iframe for the  gateway"
+msgstr "סמנו בכדי להפעיל IFRAME"
+
+#: helpers/creditguard.php:97
+msgid "Saved Cards"
+msgstr "אפשר שמירת טוקן אשראי"
+
+#: helpers/creditguard.php:98
+msgid "Enable Payment via Saved Cards"
+msgstr "לאפשר תשלומים על ידי טוקן שמור (נדרש תמיכה בטוקנים מחברת הסליקה)"
+
+#: helpers/creditguard.php:100
+msgid ""
+"If enabled, users will be able to pay with a saved card during checkout."
+msgstr "אם זה מופעל, המשתמשים יוכלו לשלם באמצעות כרטיס שנשמר במערכת."
+
+#: helpers/creditguard.php:106
+msgid "Force saved cards by default"
+msgstr "להכריח שמירת טוקן כברירת מחדל"
+
+#: helpers/creditguard.php:108
+msgid "If enabled, users will see checked saved card option during checkout."
+msgstr "אם זה מופעל, המשתמשים יוכלו לשלם באמצעות כרטיס שנשמר במערכת."
+
+#: helpers/creditguard.php:114
+msgid "If Force saved cards, hide the option from checkout"
+msgstr ""
+"אם מופעל \"להכריח שמירת טוקן כברירת מחדל\" הסתר את האפשרות לגולש לשמור כרטיס "
+"אשראי בעמדת התשלום"
+
+#: helpers/creditguard.php:116
+msgid "If enabled, users will not see saved card option during checkout."
+msgstr "אם זה מופעל, המשתמשים לא יראו את האפשרות לשמור טוקן בעמדת התשלום.."
+
+#: helpers/creditguard.php:121
+msgid "Title"
+msgstr "כותרת שער התשלום"
+
+#: helpers/creditguard.php:123
+msgid ""
+"Enter the text to display surfer at choosing payment gateway eg \"secure "
+"payment by credit card\""
+msgstr ""
+"הזן את הטקסט בכדי להציג לגולש בבחירת שער התשלום למשל \"תשלום מאובטח באמצעות "
+"כרטיס אשראי\""
+
+#: helpers/creditguard.php:127
+msgid "Logo"
+msgstr "אייקון לשער תשלום"
+
+#: helpers/creditguard.php:129
+msgid "Enter the logo URL to display beside payment gateway."
+msgstr "נא להזין את הקישור לאייקון ליד שער התשלום."
+
+#: helpers/creditguard.php:133
+msgid "Description"
+msgstr "תיאור"
+
+#: helpers/creditguard.php:135
+msgid "Enter a payment gateway description"
+msgstr "נא להזין תיאור לשער התשלום, ניתן להשאיר ריק."
+
+#: helpers/creditguard.php:216
+msgid "Response Data: "
+msgstr "נתונים שחזרו: "
+
+#: helpers/creditguard.php:225 helpers/creditguard.php:229
+msgid "You are not allowed to access this page."
+msgstr "אתם לא רשאים לגשת לעמוד זה."
+
+#: helpers/creditguard.php:261
+msgid "An Error Occurred."
+msgstr "התרחשה שגיאה."
+
+#: helpers/creditguard.php:357
+#, php-format
+msgid "Creditguard charge authorized, Return Data: %s."
+msgstr "לכידת תשלום, נתונים שחזרו מספק הסליקה: %s."
+
+#: helpers/creditguard.php:388 helpers/creditguard.php:536
+#, fuzzy, php-format
+#| msgid "Additional Details"
+msgid "CG Transaction Additional Details: %s"
+msgstr "פרטים נוספים"
+
+#: helpers/creditguard.php:391 helpers/creditguard.php:539
+#, fuzzy, php-format
+#| msgid "CG Transaction Id not generated."
+msgid "CG Transaction Id not generated. %s"
+msgstr "מספר מזהה טרנזקציה לא נוצר."
+
+#: helpers/creditguard.php:396 helpers/creditguard.php:544
+#: helpers/creditguard.php:1292 helpers/creditguard.php:1504
+#: helpers/creditguard.php:2141
+#, php-format
+msgid "Payment done, Return data: %s"
+msgstr "תשלום בוצע, נתונים שחזרו מחברת האשראי: %s"
+
+#: helpers/creditguard.php:401
+#, php-format
+msgid "Payment not Successfull, Return Data: %s"
+msgstr "התשלום לא הושלם, נתונים שחזרו מחברת האשראי: %s"
+
+#: helpers/creditguard.php:418
+msgid "Something went wrong"
+msgstr "משהו השתבש"
+
+#: helpers/creditguard.php:505 helpers/creditguard.php:1276
+#: helpers/creditguard.php:1488
+#, php-format
+msgid "CreditGuard charge authorized, Return Data: %s."
+msgstr "לכידת תשלום, נתונים שחזרו מספק הסליקה: %s."
+
+#: helpers/creditguard.php:549
+#, php-format
+msgid "Payment not Successfull, Return data: %s"
+msgstr "התשלום לא הושלם, נתונים שחזרו מחברת האשראי: %s"
+
+#: helpers/creditguard.php:613 helpers/creditguard.php:668
+msgid "No of Installments"
+msgstr "מספר תשלומים"
+
+#: helpers/creditguard.php:633
+msgid "Card Number"
+msgstr "מספר כרטיס"
+
+#: helpers/creditguard.php:637
+msgid "Expiry Date"
+msgstr "תאריך תוקף"
+
+#: helpers/creditguard.php:641
+msgid "CVV Code"
+msgstr ""
+
+#: helpers/creditguard.php:649
+msgid "Customer ID"
+msgstr "מספר לקוח"
+
+#: helpers/creditguard.php:695
+msgid "Payment Gatway is in Sandbox mode."
+msgstr ""
+
+#: helpers/creditguard.php:708
+msgid "Payment Gatway is using Test terminal."
+msgstr ""
+
+#: helpers/creditguard.php:736
+msgid "Card number is required!"
+msgstr ""
+
+#: helpers/creditguard.php:742
+msgid "Card number is invalid (wrong length)!"
+msgstr ""
+
+#: helpers/creditguard.php:747
+msgid "Card number is invalid (only digits allowed)!"
+msgstr ""
+
+#: helpers/creditguard.php:753
+msgid "CVV number is required!"
+msgstr ""
+
+#: helpers/creditguard.php:758
+msgid "CVV number is invalid (only digits allowed)!"
+msgstr ""
+
+#: helpers/creditguard.php:763
+msgid "CVV number is invalid (must be 3 or 4 digits)!"
+msgstr ""
+
+#: helpers/creditguard.php:778
+msgid "Card expiration date is invalid!"
+msgstr ""
+
+#: helpers/creditguard.php:816 helpers/creditguard.php:874
+msgid "Refund failed."
+msgstr "פעולת זיכוי / ביטול נכשלה."
+
+#: helpers/creditguard.php:852
+msgid "Refund Request: "
+msgstr ""
+
+#: helpers/creditguard.php:863
+msgid "Refund Response: "
+msgstr ""
+
+#: helpers/creditguard.php:868
+#, php-format
+msgid "Refunded Amount %1$s - Refund ID: %2$s"
+msgstr "בוצע זיכוי / ביטול לסכום  %1$s - מספר ביטול: %2$s"
+
+#: helpers/creditguard.php:873
+#, php-format
+msgid "Refund failed, %s"
+msgstr "זיכוי / ביטול נכשל, %s"
+
+#: helpers/creditguard.php:878
+msgid "simplexml_load_string not found, Refund failed."
+msgstr ""
+
+#: helpers/creditguard.php:882
+msgid "cURL not found, Refund failed."
+msgstr ""
+
+#: helpers/creditguard.php:916 helpers/creditguard.php:1945
+#: helpers/creditguard.php:2348
+msgid "Order"
+msgstr "הזמנה"
+
+#: helpers/creditguard.php:970 helpers/creditguard.php:1999
+#: helpers/creditguard.php:2401
+msgid "Tax ID"
+msgstr "ע.מ / ת.ז"
+
+#: helpers/creditguard.php:975 helpers/creditguard.php:1631
+#: helpers/creditguard.php:2004 helpers/creditguard.php:2406
+msgid "Order Number"
+msgstr "מספר הזמנה"
+
+#: helpers/creditguard.php:975 helpers/creditguard.php:2004
+#: helpers/creditguard.php:2406
+msgid "Phone"
+msgstr "טלפון"
+
+#: helpers/creditguard.php:1000
+msgid "License Expired, Please Contact Site Admin."
+msgstr "רישוי תוסף הסליקה פג, נא לפנות למנהל האתר."
+
+#: helpers/creditguard.php:1227
+msgid "Token Payment Request: "
+msgstr ""
+
+#: helpers/creditguard.php:1251
+msgid "Payment Response: "
+msgstr "תשובה לתשלום: "
+
+#: helpers/creditguard.php:1665
+msgid "CGMPI Request: "
+msgstr ""
+
+#: helpers/creditguard.php:1689
+msgid "CGMPI Response: "
+msgstr ""
+
+#: helpers/creditguard.php:1786 helpers/creditguard.php:1828
+msgid "Card Token"
+msgstr "סוג הכרטיס"
+
+#: helpers/creditguard.php:1789 helpers/creditguard.php:1831
+msgid "Auth Number"
+msgstr "מספר אישור עסקה"
+
+#: helpers/creditguard.php:1792 helpers/creditguard.php:1834
+msgid "Number of Payments"
+msgstr "מספר תשלומים"
+
+#: helpers/creditguard.php:1796 helpers/creditguard.php:1838
+msgid "First Payment"
+msgstr "תשלום ראשון"
+
+#: helpers/creditguard.php:1800 helpers/creditguard.php:1842
+msgid "Other Payment"
+msgstr "מספר תשלומים"
+
+#: helpers/creditguard.php:1804 helpers/creditguard.php:1846
+#, fuzzy
+#| msgid "Card Token"
+msgid "Card Mask"
+msgstr "סוג הכרטיס"
+
+#: helpers/creditguard.php:1807 helpers/creditguard.php:1849
+msgid "Card Brand"
+msgstr "מותג הכרטיס"
+
+#: helpers/creditguard.php:1810 helpers/creditguard.php:1852
+msgid "Card Acquirer"
+msgstr "שם חברת הסליקה"
+
+#: helpers/creditguard.php:1813 helpers/creditguard.php:1855
+msgid "Card Company"
+msgstr "שם חברה מנפיקה"
+
+#: helpers/creditguard.php:1816 helpers/creditguard.php:1858
+msgid "Card Type"
+msgstr "סוג הכרטיס"
+
+#: helpers/creditguard.php:1819 helpers/creditguard.php:1862
+msgid "CG Transaction Id"
+msgstr "מספר טרנזקציה"
+
+#: helpers/creditguard.php:1823 helpers/creditguard.php:1866
+msgid "Customer Id"
+msgstr "ת.ז"
+
+#: helpers/creditguard.php:1871
+msgid "Additional Details"
+msgstr "פרטים נוספים"
+
+#: helpers/creditguard.php:1920
+msgid "Error: Payment method token is missing on order meta"
+msgstr "שגיאה: אסימון שיטת התשלום חסר במטא ההזמנה"
+
+#: helpers/creditguard.php:2096
+msgid "Subscription Request: "
+msgstr ""
+
+#: helpers/creditguard.php:2118
+msgid "Subscription Response: "
+msgstr ""
+
+#: helpers/creditguard.php:2226
+msgid "Your order was cancelled."
+msgstr "ההזמנה בוטלה."
+
+#: helpers/creditguard.php:2475
+msgid "Capture Request: "
+msgstr ""
+
+#: helpers/creditguard.php:2496
+msgid "Capture Response: "
+msgstr ""
+
+#: helpers/creditguard.php:2520
+#, php-format
+msgid "Payment Captured, Return data: %s"
+msgstr "לכידת תשלום, נתונים שחזרו מספק הסליקה: %s"
+
+#: helpers/creditguard.php:2558
+msgid "Please enter numeric value for TAX ID."
+msgstr "הזן ערך מספרי עבור מזהה מס."
+
+#: helpers/creditguard.php:2561
+msgid "Max 9 digists allowed for TAX ID"
+msgstr "מקסימום 9 ספרות מותרות למזהה מס"
+
+#: helpers/creditguard.php:2568
+msgid "TAX ID"
+msgstr "מספר ע.מ / ח.פ"
+
+#: helpers/creditguard.php:2596
+msgid "Download Invoice"
+msgstr "הורדת חשבונית"
+
+#: helpers/creditguard.php:2690
+msgid "Installment Fee"
+msgstr "עמלת תשלומים"
+
+#: helpers/creditguard.php:2703
+msgid "You are using sandbox mode for CreditGuard Payment plugin."
+msgstr ""
+"אזהרה! אתם משתמשים במסוף סליקת אשראי לבדיקות בלבד, כאשר מסוף בדיקות נמצא "
+"בשימוש לא יתקבלו תשלומים מחברת האשראי עבור עסקאות באתר ואין לספק מוצרים "
+"שנרכשו באתר בזמן שמסוף הבדיקות פעיל, חשוב להגדיר מסוף ייצור לפני העלאת האתר "
+"לרשת, במידה וחסר לכם את פרטי המסוף עליכם ליצור קשר עם חברת קרדיט גארד בטלפון "
+"03-7370703 או על ידי פנייה בדואל cg-support@creditguard.co.il ."
+
+#: helpers/creditguard.php:2707
+msgid "You are using Test terminal for CreditGuard Payment plugin."
+msgstr "אתם משתמשים במסוף בדיקות סליקת אשראי של חברת קרדיט גארד."
+
+#: helpers/main.php:55 helpers/main.php:56
+msgid "License Information"
+msgstr "מידע רישוי התוסף"
+
+#: helpers/main.php:63 helpers/main.php:64
+msgid "Invoice Setting"
+msgstr "הגדרת חשבוניות"
+
+#: helpers/main.php:71 helpers/main.php:72
+msgid "Advance Settings"
+msgstr "הגדרות מתקדמות"
+
+#: helpers/main.php:79 helpers/main.php:80
+msgid "Installments Settings"
+msgstr "הגדרות תשלומים"
+
+#: helpers/main.php:87 helpers/main.php:88
+msgid "Debug Log"
+msgstr "דוח שגיאות"
+
+#: helpers/main.php:115
+msgid ""
+"<div id='message' class='updated'><p>The license has been successfully "
+"updated!</p></div>"
+msgstr ""
+"<div id='message' class='updated'><p>מפתח הרישוי עודכן בהצלחה</p></div>"
+
+#: helpers/main.php:119
+msgid ""
+"<div id='message' class='updated'><p>License wrong, try again or contact "
+"support by phone 072-2821340</p></div>"
+msgstr ""
+"<div id='message' class='updated'><p>מספר הרישוי שגוי, נא לפנות לתמיכה "
+"בטלפון 072-2831340 או באימייל support@maxstore.co.il</p></div>"
+
+#: helpers/main.php:123 helpers/main.php:127
+msgid ""
+"<div id='message' class='updated'><p>The license has expired. Contact "
+"support by phone 072-2831340</p></div>"
+msgstr ""
+"<div id='message' class='updated'><p>רישוי תוסף הסליקה פג, נא ליצור קשר עם "
+"התמיכה בטלפון 072-2831340 או באימייל support@maxstore.co.il </p></div>"
+
+#: helpers/main.php:132
+msgid "<div id='message' class='updated'><p>Error. Please try again!</p></div>"
+msgstr "<div id='message' class='updated'><p>שגיאה, נא לנסות שנית</p></div>"
+
+#: helpers/main.php:139
+msgid "License Settings:"
+msgstr "הגדרות רישוי:"
+
+#: helpers/main.php:143
+msgid "License Key"
+msgstr "מפתח רישוי"
+
+#: helpers/main.php:163
+msgid ""
+"<div id='message' class='updated'><p>Invoice settings have been successfully "
+"updated!</p></div>"
+msgstr ""
+"<div id='message' class='updated'><p>הגדרות חשבוניות נשמרו בהצלחה</p></div>"
+
+#: helpers/main.php:171
+msgid "Invoice Settings:"
+msgstr "הגדרות חשבוניות:"
+
+#: helpers/main.php:187
+msgid "TML Invoice:"
+msgstr "חשבוניות ט.מ.ל:"
+
+#: helpers/main.php:188
+msgid "Enable TML invoice:"
+msgstr "לאפשר חיבור לחשבוניות של ט.מ.ל:"
+
+#: helpers/main.php:192
+msgid "Invoice Type:"
+msgstr "סוג מסמך:"
+
+#: helpers/main.php:246
+msgid ""
+"<div id='message' class='updated'><p>Advance settings have been successfully "
+"updated!</p></div>"
+msgstr ""
+"<div id='message' class='updated'><p>הגדרות מתקדמות נשמרו בהצלחה</p></div>"
+
+#: helpers/main.php:252
+msgid "Advance Settings:"
+msgstr "הגדרות מתקדמות:"
+
+#: helpers/main.php:253
+msgid "Check below options if you want to display on WooCommerce Invoice."
+msgstr ""
+"בחרו את האפשרויות שתרצו להדפיס בנוסף בהזמנות ווקומרס שנשלחות ללקוח ולמנהל "
+"האתר באימייל לאחר ההזמנה."
+
+#: helpers/main.php:258
+msgid "Token:"
+msgstr "טוקן:"
+
+#: helpers/main.php:260
+msgid "Send Token To Admin"
+msgstr "שלח מספר טוקן למנהל האתר"
+
+#: helpers/main.php:262
+msgid "Send Token To Client"
+msgstr "שלח מספר טוקן ללקוח"
+
+#: helpers/main.php:267
+msgid "Auth Number:"
+msgstr "מספר אישור עסקה:"
+
+#: helpers/main.php:269
+msgid "Send Auth Number To Admin"
+msgstr "שלח מספר אישור עסקה למנהל האתר"
+
+#: helpers/main.php:271
+msgid "Send Auth Number To Client"
+msgstr "שלח מספר אישור עסקה ללקוח"
+
+#: helpers/main.php:276
+msgid "Number Of Payments:"
+msgstr "מספר תשלומים:"
+
+#: helpers/main.php:278
+msgid "Send Number Of Payments To Admin"
+msgstr "שלח את מספר התשלומים למנהל"
+
+#: helpers/main.php:280
+msgid "Send Number Of Payments To Client"
+msgstr "שלח את מספר התשלומים ללקוח"
+
+#: helpers/main.php:286
+#, fuzzy
+#| msgid "Card Token"
+msgid "Card Mask:"
+msgstr "סוג הכרטיס"
+
+#: helpers/main.php:288
+#, fuzzy
+#| msgid "Send Card Brand To Admin"
+msgid "Send Card Mask To Admin"
+msgstr "שלח את מותג הכרטיס למנהל האתר"
+
+#: helpers/main.php:290
+#, fuzzy
+#| msgid "Send Card Brand To Client"
+msgid "Send Card Mask To Client"
+msgstr "שלח את מותג הכרטיס ללקוח"
+
+#: helpers/main.php:295
+msgid "Card Brand:"
+msgstr "מותג הכרטיס:"
+
+#: helpers/main.php:297
+msgid "Send Card Brand To Admin"
+msgstr "שלח את מותג הכרטיס למנהל האתר"
+
+#: helpers/main.php:299
+msgid "Send Card Brand To Client"
+msgstr "שלח את מותג הכרטיס ללקוח"
+
+#: helpers/main.php:304
+msgid "Card Acquirer:"
+msgstr "שם החברה הסולקת:"
+
+#: helpers/main.php:306
+msgid "Send Card Acquirer To Admin"
+msgstr "שלח את שם החברה הסולקת למנהל האתר"
+
+#: helpers/main.php:308
+msgid "Send Card Acquirer To Client"
+msgstr "שלח את שם החברה הסולקת ללקוח"
+
+#: helpers/main.php:313
+msgid "Card Company:"
+msgstr "שם חברה מנפיקה:"
+
+#: helpers/main.php:315
+msgid "Send Card Company To Admin"
+msgstr "שלח את שם החברה המנפיקה למנהל האתר"
+
+#: helpers/main.php:317
+msgid "Send Card Company To Client"
+msgstr "שלח את שם החברה המנפיקה ללקוח"
+
+#: helpers/main.php:322
+msgid "Card Type:"
+msgstr "סוג הכרטיס:"
+
+#: helpers/main.php:324
+msgid "Send Card Type To Admin"
+msgstr "שלח את סוג הכרטיס (מקומי, זר וכו') למנהל האתר"
+
+#: helpers/main.php:326
+msgid "Send Card Type To Client"
+msgstr "שלח את סוג הכרטיס (מקומי, זר וכו') ללקוח"
+
+#: helpers/main.php:331
+msgid "Send email to admin when J5 captured done"
+msgstr "שלח הודעת דואר נוספת למנהל האתר לאחר שחרור תשלום ב J5"
+
+#: helpers/main.php:337
+msgid "Transaction ID:"
+msgstr "מזהה טרזקציה:"
+
+#: helpers/main.php:339 helpers/main.php:349
+msgid "Send To Admin"
+msgstr "שלח מספר טוקן למנהל האתר"
+
+#: helpers/main.php:341 helpers/main.php:351
+msgid "Send To Client"
+msgstr "שלח מספר טוקן ללקוח"
+
+#: helpers/main.php:347
+msgid "Customer ID:"
+msgstr "ת.ז:"
+
+#: helpers/main.php:379
+msgid ""
+"<div id='message' class='updated'><p>Information updated successfully!</p></"
+"div>"
+msgstr "<div id='message' class='updated'><p>הפרטים עודכנו בהצלחה</p></div>"
+
+#: helpers/main.php:381
+msgid "<div id='message' class='error'><p>Error. Please try again!</p></div>"
+msgstr "<div id='message' class='error'><p>שגיאה, נא לנסות שנית</p></div>"
+
+#: helpers/main.php:389
+msgid "Installments Settings:"
+msgstr "כמות תשלומים:"
+
+#: helpers/main.php:393 helpers/main.php:416
+msgid "From Price"
+msgstr "החל ממחיר"
+
+#: helpers/main.php:394
+msgid "Installments Number"
+msgstr "מספר תשלומים"
+
+#: helpers/main.php:395
+msgid "Fee"
+msgstr "עמלה"
+
+#: helpers/main.php:396
+msgid "Action"
+msgstr "פעולה"
+
+#: helpers/main.php:406
+msgid "Delete"
+msgstr "מחיקה"
+
+#: helpers/main.php:420
+msgid "Please type number of installments is possible:"
+msgstr "נא להזין את מספר התשלומים הרצוי:"
+
+#: helpers/main.php:424
+msgid "Fee%"
+msgstr "עמלה%"
+
+#: helpers/main.php:429
+msgid "Add"
+msgstr "הוסף"
+
+#: helpers/main.php:435
+msgid "Are you sure you want to delete this?"
+msgstr "האם אתם בטוחים שאתם רוצים למחוק ?"
+
+#: helpers/main.php:459
+msgid "Debug Log:"
+msgstr "דוח שגיאות:"
+
+#: helpers/main.php:635 helpers/main.php:636 helpers/main.php:637
+#: helpers/main.php:638
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: helpers/main.php:669
+msgid "Same language as wordpress"
+msgstr "השתמש בשפת ההתקנה של וורדפרס"
+
+#: helpers/main.php:670
+msgid "Same language as WPML"
+msgstr "בהתאם לשימוש בתוסף WPML"
+
+#: helpers/main.php:671
+msgid "Same language as Poly"
+msgstr "בהתאם לשימוש בתוסף Polylang"
+
+#: helpers/main.php:672
+msgid "English"
+msgstr "אנגלית"
+
+#: helpers/main.php:673
+msgid "Hebrew"
+msgstr "עברית"
+
+#: helpers/main.php:685
+msgid "Terminal Setting:"
+msgstr "הגדרות מסוף סליקה קרדיט גארד:"
+
+#: helpers/main.php:689
+msgid "Mode:"
+msgstr "מצב:"
+
+#: helpers/main.php:691
+msgid "Production"
+msgstr "מסוף ייצור"
+
+#: helpers/main.php:693
+msgid "SandBox"
+msgstr "מסוף בדיקות"
+
+#: helpers/main.php:697
+#, fuzzy
+#| msgid "Terminal Number:"
+msgid "Terminal 1:"
+msgstr "מספר מסוף:"
+
+#: helpers/main.php:701 helpers/main.php:787
+msgid "User Name:"
+msgstr "שם משתמש:"
+
+#: helpers/main.php:705 helpers/main.php:791
+msgid "Password:"
+msgstr "סיסמה:"
+
+#: helpers/main.php:709 helpers/main.php:795
+msgid "Terminal Number:"
+msgstr "מספר מסוף:"
+
+#: helpers/main.php:713 helpers/main.php:799
+msgid "MID Number:"
+msgstr "מספר מ.י.ד:"
+
+#: helpers/main.php:717 helpers/main.php:803
+msgid "Gateway Address:"
+msgstr "כתובת שרת:"
+
+#: helpers/main.php:721 helpers/main.php:807
+msgid "Emv Support:"
+msgstr "תמיכה במסופי EMV:"
+
+#: helpers/main.php:727 helpers/main.php:813
+msgid "Payment Page Language:"
+msgstr "שפת עמוד התשלום:"
+
+#: helpers/main.php:748
+#, fuzzy
+#| msgid "Terminal Number:"
+msgid "Terminal 2:"
+msgstr "מספר מסוף:"
+
+#: helpers/main.php:756
+#, fuzzy
+#| msgid "Terminal Setting:"
+msgid "Terminal Selection:"
+msgstr "הגדרות מסוף סליקה קרדיט גארד:"
+
+#: helpers/main.php:760
+msgid "Terminal 1 for cvv Terminal 2 without cvv"
+msgstr ""
+
+#: helpers/main.php:760
+msgid "Terminal 1 for price < and Terminal 2 for >="
+msgstr ""
+
+#: helpers/main.php:776
+#, fuzzy
+#| msgid "From Price"
+msgid "Price:"
+msgstr "החל ממחיר"
+
+#: helpers/main.php:778
+msgid "<"
+msgstr ""
+
+#: helpers/main.php:781
+msgid ">="
+msgstr ""
+
+#: helpers/main.php:843
+msgid "Unique ID:"
+msgstr "מזהה ייחודי:"
+
+#: helpers/main.php:847
+msgid "userData2:"
+msgstr "userData2 עבור מידע נוסף ( אופציונלי )"
+
+#: helpers/main.php:850
+msgid "Dynamic Values:"
+msgstr "ערך דינאמי:"
+
+#: helpers/main.php:855
+msgid "userData3:"
+msgstr "userData3 עבור מידע נוסף ( אופציונלי )"
+
+#: helpers/main.php:859
+msgid "Docremark Value:"
+msgstr "ערך לשדה Docremark:"
+
+#: helpers/main.php:878
+msgid "Meta Key:"
+msgstr ""
+
+#: helpers/main.php:883
+msgid "Payment Action:"
+msgstr "לכידת תשלום:"
+
+#: helpers/main.php:902
+msgid "Don't send AuthNumber:"
+msgstr "לא לשלוח AuthNumber:"
+
+#: helpers/main.php:909
+msgid "Customer Id for one page checkout?"
+msgstr ""
+
+#: helpers/main.php:916
+msgid "Allow Refund?"
+msgstr "לאפשר ביטול / זיכוי עסקה?"
+
+#: helpers/main.php:923
+msgid "Who can refund?"
+msgstr "איזה משתמשים מורשים לבצע זיכוי / ביטול עסקה?"
+
+#: helpers/main.php:944
+msgid "Unlock Installment?"
+msgstr "לשחרר נעילת תשלומים?"
+
+#: helpers/main.php:950
+msgid "Remove Cancel Button?"
+msgstr "הסרת כפתור ביטול בעמוד התשלום?"
+
+#: helpers/main.php:960
+msgid "Iframe Width:"
+msgstr "רוחב IFRAME:"
+
+#: helpers/main.php:978
+msgid "Iframe Height:"
+msgstr "גובה IFRAME:"
+
+#: helpers/main.php:997
+msgid "Add TAX id to Cart:"
+msgstr "הוסף שדה להזנת ע.מ / ח.פ בעגלת הקניות:"
+
+#: helpers/main.php:1083
+msgid "Setting back pages:"
+msgstr "הגדרת עמודי חזרה ( רלוונטי לווקומרס מתחת לגרסה 3.0 )"
+
+#: helpers/main.php:1091
+msgid "Choose failure Page:"
+msgstr "בחר: עמוד כישלון:"
+
+#: helpers/main.php:1092 helpers/main.php:1096
+msgid "For iFrame and Redirect"
+msgstr "עבור IFRAME וגם Redirect"
+
+#: helpers/main.php:1095
+msgid "Choose Cancel Page:"
+msgstr "בחרו עמוד ביטול:"
+
+#: helpers/main.php:1099
+msgid "Choose Payment Page For iFrame:"
+msgstr "בחרו עמוד תשלום עבור IFRAME:"
+
+#: helpers/main.php:1100
+msgid "For iFrame Only"
+msgstr "עבור IFRAME בלבד"
+
+#: helpers/main.php:1103
+msgid "Save Setting"
+msgstr "שמור הגדרות"
+
+#~ msgid "Token Terminal Number:"
+#~ msgstr "מספר מסוף טוקנים:"
+
+#~ msgid ""
+#~ "Tick to enable the one page checkout for the gateway. SSL is required."
+#~ msgstr "סמן כדי לאפשר את הוצאת עמוד אחד עבור השער. SSL נדרש."
+
+#~ msgid "VeriFone Test Mode ( Sandbox )"
+#~ msgstr "מסוף בדיקות ווריפון"
+
+#~ msgid "Capture"
+#~ msgstr "שלח תשלום לאישור סופי ( J5 )"
+
+#~ msgid "Include Tax:"
+#~ msgstr "לכלול מיסים:"
+
+#~ msgid "Include Tax in invoice:"
+#~ msgstr "לכלול מס בחשבונית:"

@@ -1,0 +1,7 @@
+{"id_Customer_Optimum":2200,"enter_user_Optimum":"benis1","enter_pass_Optimum":"benis1","id_Customer":"1234001","name_Customer":"\u05d1\u05e0\u05d9 \u05e8\u05d5\u05d3\u05e0\u05d9\u05e7 \u05d1\u05d9\u05ea","Authorized_dealer":"","Street":"","City":"\u05d1\u05d9\u05ea \u05e9\u05de\u05e9","mikud":"","Phone1":"","Phone2":"","fax":"","free_tax":"","Contact":"","memo1":"","memo2":"","memo3":"","Email":"","Type":"","nm_token_card":"","nm_card":"","tokef_card":"","enter_user_Customer":"","enter_pass_Customer":"","cvv_card":"","nm_apartment":"2","nm_intercom":"","floor":"2","tranId":"18752544","Address_Number":""}
+Update_Customers_orders_input
+{"id_Customer_Optimum":2200,"enter_user_Optimum":"benis1","enter_pass_Optimum":"benis1","store":"","ID_order":"140918","date_order":"2021-06-06","id_Customer":"1234001","line":1,"id_code":"10220","name_item":"\u05de\u05e9\u05dc\u05d5\u05d7","quantity":3,"memo":"","measure":"","Sale_Price":"20.00","Discount_Percent":"","total_Payment":"60","situation":"","quantity_Provided":""}
+Update_order_SHOROT_input
+{"id_Customer_Optimum":2200,"enter_user_Optimum":"benis1","enter_pass_Optimum":"benis1","Number_order":"140918","date_order":"2021-06-06","Round":1,"day":"","name_User":"\u05d1\u05e0\u05d9 \u05e7\u05d0\u05de\u05e4\u05e3","number_line":1,"total_quantity":3,"total_Account":60,"memo":"","id_Customer":"1234001"}
+Update_order_KOTERT_input
+================================

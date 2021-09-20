@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Checkout & Account Field Editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-08 10:49+0000\n"
+"PO-Revision-Date: 2017-12-08 12:06+0000\n"
+"Last-Translator: admin <junaidali.it@gmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/class-wc-checkout-field-editor.php:37
+msgid "WooCommerce Checkout & Register Form Editor"
+msgstr "WooCommerce Checkout & Register Form Editor"
+
+#: classes/class-wc-checkout-field-editor.php:37
+msgid "Checkout & Register Form"
+msgstr "Formulario de registro y registro"
+
+#: classes/class-wc-checkout-field-editor.php:121
+msgid "WooCommerce Checkout and Register Field Editor Pro"
+msgstr "WooCommerce Pago y registro Field Editor Pro"
+
+#: classes/class-wc-checkout-field-editor.php:121
+msgid ""
+"premium version provides more features to design your checkout and my "
+"account page."
+msgstr ""
+"la versión premium proporciona más funciones para diseñar su pago y la "
+"página de mi cuenta."
+
+#: classes/class-wc-checkout-field-editor.php:123
+msgid "12 field types available,"
+msgstr "12 tipos de campo disponibles,"
+
+#: classes/class-wc-checkout-field-editor.php:123
+msgid ""
+"Text, Hidden, Password, Textarea, Radio, Checkbox, Select, Multi-select, "
+"Date Picker, Time Picker, Heading, Label"
+msgstr ""
+"Texto, Oculto, Contraseña, Textarea, Radio, Casilla de verificación, "
+"Seleccionar, Selección múltiple, Selector de fecha, Selector de hora, "
+"Encabezado, Etiqueta"
+
+#: classes/class-wc-checkout-field-editor.php:124
+msgid "Option to add all of these fields on my account page too."
+msgstr ""
+"Opción para agregar todos estos campos en la página de mi cuenta también."
+
+#: classes/class-wc-checkout-field-editor.php:125
+msgid ""
+"Option to add more sections in addition to the core sections (billing, "
+"shipping and additional) in checkout page."
+msgstr ""
+"Opción para agregar más secciones además de las secciones principales "
+"(facturación, envío y adicionales) en la página de pago."
+
+#: classes/class-wc-checkout-field-editor.php:145
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/class-wc-checkout-field-editor.php:157
+msgid "SUCCESS: Checkout fields successfully reset"
+msgstr "ÉXITO: ​​los campos de comprobación se restablecieron con éxito"
+
+#: classes/class-wc-checkout-field-editor.php:262
+#: classes/class-wc-checkout-field-editor.php:390
+#: classes/class-wc-checkout-field-editor.php:531
+msgid "Type"
+msgstr "Tipo"
+
+#: classes/class-wc-checkout-field-editor.php:279
+#: classes/class-wc-checkout-field-editor.php:382
+#: classes/class-wc-checkout-field-editor.php:530
+msgid "Name"
+msgstr "Nombre"
+
+#: classes/class-wc-checkout-field-editor.php:283
+#: classes/class-wc-checkout-field-editor.php:400
+#: classes/class-wc-checkout-field-editor.php:532
+msgid "Label"
+msgstr "Etiqueta"
+
+#: classes/class-wc-checkout-field-editor.php:287
+#: classes/class-wc-checkout-field-editor.php:404
+#: classes/class-wc-checkout-field-editor.php:533
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: classes/class-wc-checkout-field-editor.php:291
+#: classes/class-wc-checkout-field-editor.php:408
+msgid "Options"
+msgstr "Opciones"
+
+#: classes/class-wc-checkout-field-editor.php:295
+#: classes/class-wc-checkout-field-editor.php:412
+msgid "Class"
+msgstr "Clase"
+
+#: classes/class-wc-checkout-field-editor.php:298
+#: classes/class-wc-checkout-field-editor.php:416
+msgid "- Full Width -> form-row-wide"
+msgstr "- Ancho completo -> form-row-wide"
+
+#: classes/class-wc-checkout-field-editor.php:298
+#: classes/class-wc-checkout-field-editor.php:416
+msgid "- Half Width -> form-row-first ; form-row-second"
+msgstr "- Half Width -> form-row-first; form-row-second"
+
+#: classes/class-wc-checkout-field-editor.php:307
+#: classes/class-wc-checkout-field-editor.php:424
+msgid "Validation"
+msgstr "Validación"
+
+#: classes/class-wc-checkout-field-editor.php:311
+#: classes/class-wc-checkout-field-editor.php:428
+msgid "Email"
+msgstr "Email"
+
+#: classes/class-wc-checkout-field-editor.php:312
+#: classes/class-wc-checkout-field-editor.php:429
+msgid "Phone"
+msgstr "Teléfono"
+
+#: classes/class-wc-checkout-field-editor.php:317
+#: classes/class-wc-checkout-field-editor.php:434
+msgid "Allowed file types"
+msgstr "Tipos de archivo permitidos"
+
+#: classes/class-wc-checkout-field-editor.php:322
+#: classes/class-wc-checkout-field-editor.php:439
+msgid "Maximum filesize"
+msgstr "Tamaño máximo de archivo"
+
+#: classes/class-wc-checkout-field-editor.php:329
+#: classes/class-wc-checkout-field-editor.php:448
+#: classes/class-wc-checkout-field-editor.php:535
+msgid "Required"
+msgstr "Necesario"
+
+#: classes/class-wc-checkout-field-editor.php:332
+#: classes/class-wc-checkout-field-editor.php:451
+#: classes/class-wc-checkout-field-editor.php:536
+msgid "Clear Row"
+msgstr "Borrar fila"
+
+#: classes/class-wc-checkout-field-editor.php:335
+#: classes/class-wc-checkout-field-editor.php:454
+#: classes/class-wc-checkout-field-editor.php:537
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: classes/class-wc-checkout-field-editor.php:342
+#: classes/class-wc-checkout-field-editor.php:461
+msgid "Display in Emails"
+msgstr "Mostrar en correos electrónicos"
+
+#: classes/class-wc-checkout-field-editor.php:349
+#: classes/class-wc-checkout-field-editor.php:468
+msgid "Display in Order Detail Pages"
+msgstr "Visualizar en páginas de detalles de pedidos"
+
+#: classes/class-wc-checkout-field-editor.php:502
+msgid "Fields"
+msgstr "Campos"
+
+#: classes/class-wc-checkout-field-editor.php:534
+msgid "Validation Rules"
+msgstr "Reglas de validación"
+
+#: classes/class-wc-checkout-field-editor.php:538
+#: classes/class-wc-checkout-field-editor.php:715
+msgid "Edit"
+msgstr "Editar"
+
+#: classes/class-wc-checkout-field-editor.php:545
+msgid "+ Add field"
+msgstr "+ Agregar campo"
+
+#: classes/class-wc-checkout-field-editor.php:546
+msgid "Remove"
+msgstr "retirar"
+
+#: classes/class-wc-checkout-field-editor.php:547
+msgid "Enable"
+msgstr "Habilitar"
+
+#: classes/class-wc-checkout-field-editor.php:548
+msgid "Disable"
+msgstr "Inhabilitar"
+
+#: classes/class-wc-checkout-field-editor.php:551
+msgid "Save changes"
+msgstr ""
+"Guardar cambios\n"
+
+#: classes/class-wc-checkout-field-editor.php:552
+msgid "Reset to default fields"
+msgstr "Restablecer a los campos predeterminados"
+
+#: classes/class-wc-checkout-field-editor.php:872
+msgid "Your changes were saved."
+msgstr "Tus cambios fueron guardados."
+
+#: classes/class-wc-checkout-field-editor.php:874
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr ""
+"Sus cambios no se guardaron debido a un error (¡o no realizó ninguno!)."
+
+#. Name of the plugin
+msgid "WooCommerce Checkout & Account Field Editor"
+msgstr "WooCommerce Editor de comprobación y campo de cuenta"
+
+#. Description of the plugin
+msgid ""
+"Customize WooCommerce checkout and my account page (Add, Edit, Delete and re-"
+"arrange fields)."
+msgstr ""
+"Personalice el pago de WooCommerce y la página de mi cuenta (Agregar, Editar,"
+" Eliminar y reorganizar campos)."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/add-fields-to-checkout-page-woocommerce/"
+msgstr "https://wordpress.org/plugins/add-fields-to-checkout-page-woocommerce/"
+
+#. Author of the plugin
+msgid "ThemeLocation"
+msgstr "ThemeLocation"
+
+#. Author URI of the plugin
+msgid "https://www.themelocation.com"
+msgstr "https://www.themelocation.com"

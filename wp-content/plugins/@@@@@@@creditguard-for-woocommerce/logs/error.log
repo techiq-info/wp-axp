@@ -1,0 +1,803 @@
+"2021-03-04 13:20:27",84.228.0.221,/?wc-ajax=checkout,"CGMPI Request: 140616 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_RHjVxAPsV79HB%26amp;order_id=140616%26amp;redirect%26amp;_wpnonce=5c7dba0c34%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>16171</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140616</description>
+         <user>140616</user>
+         <mid>15494</mid>
+         <uniqueid>1614864030205</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>miki@imko.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>מיקי בדיקה</userData4>									  
+          <userData5>0500000000</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-03-04 13:20:27",84.228.0.221,/?wc-ajax=checkout,"CGMPI Response: 140616 {""response"":{""command"":""doDeal"",""dateTime"":""2021-03-04 15:20"",""requestId"":{},""tranId"":""18373070"",""result"":""405"",""message"":""\u05d0\u05d9\u05df \u05d0\u05d9\u05e9\u05d5\u05e8 \u05dc\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05de\u05e2\u05e8\u05db\u05ea \u05e2\u05d1\u05d5\u05e8 \u05dc\u05e7\u05d5\u05d7\u05d5\u05ea SSLHTTP"",""userMessage"":""\u05e0\u05d0 \u05dc\u05e4\u05e0\u05d5\u05ea \u05dc\u05de\u05e0\u05d4\u05dc \u05d4\u05de\u05e2\u05e8\u05db\u05ea \u05d5\u05dc\u05de\u05e1\u05d5\u05e8 \u05d0\u05ea \u05e7\u05d5\u05d3 \u05d4\u05ea\u05e9\u05d5\u05d1\u05d4"",""additionalInfo"":""Merchant authentication error!"",""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""405"",""statusText"":""\u05d0\u05d9\u05df \u05d0\u05d9\u05e9\u05d5\u05e8 \u05dc\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05de\u05e2\u05e8\u05db\u05ea \u05e2\u05d1\u05d5\u05e8 \u05dc\u05e7\u05d5\u05d7\u05d5\u05ea SSLHTTP"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""16171"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""clubId"":{},""validation"":""TxnSetup"",""commReason"":""NoComm"",""starTotal"":{},""clubCode"":{},""creditGroup"":{},""pfsc"":{},""authAmount"":{},""pinKeyIn"":{},""balance"":{},""intIn"":""BCGMPIC16171D011150J106X140616"",""intOt"":{},""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":{""@attributes"":{""code"":""""}},""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""miki@imko.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140616"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":{},""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05de\u05d9\u05e7\u05d9 \u05d1\u05d3\u05d9\u05e7\u05d4"",""userData5"":""0500000000""}}}}"
+"2021-03-04 13:24:52",84.228.0.221,/?wc-ajax=checkout,"CGMPI Request: 140616 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_RHjVxAPsV79HB%26amp;order_id=140616%26amp;redirect%26amp;_wpnonce=5c7dba0c34%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>16171</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140616</description>
+         <user>140616</user>
+         <mid>15494</mid>
+         <uniqueid>1614864294914</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>miki@imko.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>מיקי בדיקה</userData4>									  
+          <userData5>0500000000</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-03-04 13:24:52",84.228.0.221,/?wc-ajax=checkout,"CGMPI Response: 140616 {""response"":{""command"":""doDeal"",""dateTime"":""2021-03-04 15:24"",""requestId"":{},""tranId"":""18373077"",""result"":""405"",""message"":""\u05d0\u05d9\u05df \u05d0\u05d9\u05e9\u05d5\u05e8 \u05dc\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05de\u05e2\u05e8\u05db\u05ea \u05e2\u05d1\u05d5\u05e8 \u05dc\u05e7\u05d5\u05d7\u05d5\u05ea SSLHTTP"",""userMessage"":""\u05e0\u05d0 \u05dc\u05e4\u05e0\u05d5\u05ea \u05dc\u05de\u05e0\u05d4\u05dc \u05d4\u05de\u05e2\u05e8\u05db\u05ea \u05d5\u05dc\u05de\u05e1\u05d5\u05e8 \u05d0\u05ea \u05e7\u05d5\u05d3 \u05d4\u05ea\u05e9\u05d5\u05d1\u05d4"",""additionalInfo"":""Merchant authentication error!"",""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""405"",""statusText"":""\u05d0\u05d9\u05df \u05d0\u05d9\u05e9\u05d5\u05e8 \u05dc\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05de\u05e2\u05e8\u05db\u05ea \u05e2\u05d1\u05d5\u05e8 \u05dc\u05e7\u05d5\u05d7\u05d5\u05ea SSLHTTP"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""16171"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""clubId"":{},""validation"":""TxnSetup"",""commReason"":""NoComm"",""starTotal"":{},""clubCode"":{},""creditGroup"":{},""pfsc"":{},""authAmount"":{},""pinKeyIn"":{},""balance"":{},""intIn"":""BCGMPIC16171D011150J106X140616"",""intOt"":{},""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":{""@attributes"":{""code"":""""}},""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""miki@imko.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140616"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":{},""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05de\u05d9\u05e7\u05d9 \u05d1\u05d3\u05d9\u05e7\u05d4"",""userData5"":""0500000000""}}}}"
+"2021-03-04 13:29:57",84.228.0.221,/?wc-ajax=checkout,"CGMPI Request: 140616 user=israeli&password=I!fr43s!34&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_RHjVxAPsV79HB%26amp;order_id=140616%26amp;redirect%26amp;_wpnonce=5c7dba0c34%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>0962832</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>16171</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140616</description>
+         <user>140616</user>
+         <mid>938</mid>
+         <uniqueid>1614864600162</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>miki@imko.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>מיקי בדיקה</userData4>									  
+          <userData5>0500000000</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-03-04 13:29:57",84.228.0.221,/?wc-ajax=checkout,"CGMPI Response: 140616 {""response"":{""command"":""doDeal"",""dateTime"":""2021-03-04 15:30"",""requestId"":{},""tranId"":""59301293"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""0962832"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""16171"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""938"",""uniqueid"":""1614864600162"",""mpiValidation"":""autoComm"",""token"":""8904647f-bb28-43fc-bc9a-454d61c8b469"",""mpiHostedPageUrl"":""https:\/\/cgmpiuat.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=8904647f-bb28-43fc-bc9a-454d61c8b469"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_RHjVxAPsV79HB%26amp;amp;order_id=140616%26amp;amp;redirect%26amp;amp;_wpnonce=5c7dba0c34%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""commReason"":""NoComm"",""starTotal"":{},""clubCode"":{},""creditGroup"":{},""pfsc"":{},""authAmount"":{},""pinKeyIn"":{},""balance"":{},""intIn"":""BCGMPIC16171D011150J106X140616"",""intOt"":{},""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""miki@imko.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140616"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""59301293"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05de\u05d9\u05e7\u05d9 \u05d1\u05d3\u05d9\u05e7\u05d4"",""userData5"":""0500000000""}}}}"
+"2021-03-07 10:18:27",84.228.0.221,/?wc-ajax=checkout,"CGMPI Request: 140645 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_fMlUCYlfO3id7%26amp;order_id=140645%26amp;redirect%26amp;_wpnonce=d35b3ceb0e%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>16171</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140645</description>
+         <user>140645</user>
+         <mid>15494</mid>
+         <uniqueid>1615112308201</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>miki@imko.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>מיקי בדיקה</userData4>									  
+          <userData5>0500000000</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-03-07 10:18:27",84.228.0.221,/?wc-ajax=checkout,"CGMPI Response: 140645 {""response"":{""command"":""doDeal"",""dateTime"":""2021-03-07 12:18"",""requestId"":{},""tranId"":""18383593"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""16171"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1615112308201"",""mpiValidation"":""autoComm"",""token"":""d28690ce-5255-4a5f-8e91-50d8a6c9cfa6"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=d28690ce-5255-4a5f-8e91-50d8a6c9cfa6"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_fMlUCYlfO3id7%26amp;amp;order_id=140645%26amp;amp;redirect%26amp;amp;_wpnonce=d35b3ceb0e%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""miki@imko.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140645"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18383593"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05de\u05d9\u05e7\u05d9 \u05d1\u05d3\u05d9\u05e7\u05d4"",""userData5"":""0500000000""}}}}"
+"2021-04-08 13:43:55",89.139.244.97,/?wc-ajax=checkout,"CGMPI Request: 140673 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_bSajTpRlLsLxu%26amp;order_id=140673%26amp;redirect%26amp;_wpnonce=7077234787%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>26690</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140673</description>
+         <user>140673</user>
+         <mid>15494</mid>
+         <uniqueid>1617889437610</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>miki@animo-tech.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>miki Atias</userData4>									  
+          <userData5>0522492797</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-08 13:43:55",89.139.244.97,/?wc-ajax=checkout,"CGMPI Response: 140673 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-08 16:43"",""requestId"":{},""tranId"":""18506803"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""26690"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1617889437610"",""mpiValidation"":""autoComm"",""token"":""fe3dedf0-51f9-4272-9b41-e0c402948b41"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=fe3dedf0-51f9-4272-9b41-e0c402948b41"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_bSajTpRlLsLxu%26amp;amp;order_id=140673%26amp;amp;redirect%26amp;amp;_wpnonce=7077234787%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""miki@animo-tech.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140673"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18506803"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""miki Atias"",""userData5"":""0522492797""}}}}"
+"2021-04-08 14:06:39",89.139.244.97,/?wc-ajax=checkout,"CGMPI Request: 140673 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_bSajTpRlLsLxu%26amp;order_id=140673%26amp;redirect%26amp;_wpnonce=7077234787%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>26690</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140673</description>
+         <user>140673</user>
+         <mid>15494</mid>
+         <uniqueid>1617890802718</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>2226630@gmail.co.il</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>בני רודניק</userData4>									  
+          <userData5>0542226630</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-08 14:06:39",89.139.244.97,/?wc-ajax=checkout,"CGMPI Response: 140673 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-08 17:06"",""requestId"":{},""tranId"":""18506838"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""26690"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1617890802718"",""mpiValidation"":""autoComm"",""token"":""d885b439-3d07-4a50-8afa-f20d6fd11ce9"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=d885b439-3d07-4a50-8afa-f20d6fd11ce9"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_bSajTpRlLsLxu%26amp;amp;order_id=140673%26amp;amp;redirect%26amp;amp;_wpnonce=7077234787%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""2226630@gmail.co.il"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140673"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18506838"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d1\u05e0\u05d9 \u05e8\u05d5\u05d3\u05e0\u05d9\u05e7"",""userData5"":""0542226630""}}}}"
+"2021-04-08 14:13:14",89.139.244.97,/?wc-ajax=checkout,"CGMPI Request: 140673 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_bSajTpRlLsLxu%26amp;order_id=140673%26amp;redirect%26amp;_wpnonce=7077234787%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>26690</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140673</description>
+         <user>140673</user>
+         <mid>15494</mid>
+         <uniqueid>1617891199652</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>2226630@gmail.co.il</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>בני רודניק</userData4>									  
+          <userData5>0542226630</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-08 14:13:14",89.139.244.97,/?wc-ajax=checkout,"CGMPI Response: 140673 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-08 17:13"",""requestId"":{},""tranId"":""18506841"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""26690"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1617891199652"",""mpiValidation"":""autoComm"",""token"":""8da2a74d-9140-49ba-8338-70ff6063ab1c"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=8da2a74d-9140-49ba-8338-70ff6063ab1c"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_bSajTpRlLsLxu%26amp;amp;order_id=140673%26amp;amp;redirect%26amp;amp;_wpnonce=7077234787%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""2226630@gmail.co.il"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140673"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18506841"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d1\u05e0\u05d9 \u05e8\u05d5\u05d3\u05e0\u05d9\u05e7"",""userData5"":""0542226630""}}}}"
+"2021-04-08 14:14:18",89.139.244.97,/wc-api/creditguard_callback?uniqueID=1617891199652&lang=HE&authNumber=5790226&cgUid=18506841&responseMac=918df927637e03e1752ae21a693270e1c41278b278325868706bf55d49d2daeb&cardToken=1063798748471472&cardExp=0326&personalId=&cardMask=375516*****1472&txId=8da2a74d-9140-49ba-8338-70ff6063ab1c&numberOfPayments=0&firstPayment=&periodicalPayment=&userData5=0542226630&userData4=%D7%91%D7%A0%D7%99%20%D7%A8%D7%95%D7%93%D7%A0%D7%99%D7%A7&userData1=yes,"נתונים שחזרו: {""uniqueID"":""1617891199652"",""lang"":""HE"",""authNumber"":""5790226"",""cgUid"":""18506841"",""responseMac"":""918df927637e03e1752ae21a693270e1c41278b278325868706bf55d49d2daeb"",""cardToken"":""1063798748471472"",""cardExp"":""0326"",""personalId"":"""",""cardMask"":""375516*****1472"",""txId"":""8da2a74d-9140-49ba-8338-70ff6063ab1c"",""numberOfPayments"":""0"",""firstPayment"":"""",""periodicalPayment"":"""",""userData5"":""0542226630"",""userData4"":""\u05d1\u05e0\u05d9 \u05e8\u05d5\u05d3\u05e0\u05d9\u05e7"",""userData1"":""yes"",""woocommerce-login-nonce"":null,""_wpnonce"":null,""woocommerce-reset-password-nonce"":null}"
+"2021-04-20 08:57:42",89.139.244.97,/?wc-ajax=checkout,"CGMPI Request: 140679 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_ufB3XM6PrHK0B%26amp;order_id=140679%26amp;redirect%26amp;_wpnonce=30ba988950%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>11600</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140679</description>
+         <user>140679</user>
+         <mid>15494</mid>
+         <uniqueid>1618909065244</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>miki@ifffmko.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>מיקי בדיקה</userData4>									  
+          <userData5>0500000000</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-20 08:57:42",89.139.244.97,/?wc-ajax=checkout,"CGMPI Response: 140679 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-20 11:57"",""requestId"":{},""tranId"":""18554483"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""11600"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1618909065244"",""mpiValidation"":""autoComm"",""token"":""b1ad08d5-5e07-4726-abd8-ef997116c3e8"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=b1ad08d5-5e07-4726-abd8-ef997116c3e8"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_ufB3XM6PrHK0B%26amp;amp;order_id=140679%26amp;amp;redirect%26amp;amp;_wpnonce=30ba988950%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""miki@ifffmko.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140679"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18554483"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05de\u05d9\u05e7\u05d9 \u05d1\u05d3\u05d9\u05e7\u05d4"",""userData5"":""0500000000""}}}}"
+"2021-04-21 07:55:32",89.139.244.97,/?wc-ajax=checkout,"CGMPI Request: 140681 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_ccXDGsI8pVzP5%26amp;order_id=140681%26amp;redirect%26amp;_wpnonce=39a740f2de%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>10390</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140681</description>
+         <user>140681</user>
+         <mid>15494</mid>
+         <uniqueid>1618991735853</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>telavivinet@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>tlv host</userData4>									  
+          <userData5>036314845</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-21 07:55:32",89.139.244.97,/?wc-ajax=checkout,"CGMPI Response: 140681 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-21 10:55"",""requestId"":{},""tranId"":""18558913"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""10390"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1618991735853"",""mpiValidation"":""autoComm"",""token"":""5739be65-e1d6-421f-a0bb-69fccf0b48d8"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=5739be65-e1d6-421f-a0bb-69fccf0b48d8"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_ccXDGsI8pVzP5%26amp;amp;order_id=140681%26amp;amp;redirect%26amp;amp;_wpnonce=39a740f2de%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""telavivinet@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140681"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18558913"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""tlv host"",""userData5"":""036314845""}}}}"
+"2021-04-21 11:20:29",103.238.107.131,/?wc-ajax=checkout,"CGMPI Request: 140682 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_Ug1zkbofNJnqB%26amp;order_id=140682%26amp;redirect%26amp;_wpnonce=87099768a2%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>9390</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140682</description>
+         <user>140682</user>
+         <mid>15494</mid>
+         <uniqueid>1619004033415</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>telavivinet@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>tlv host</userData4>									  
+          <userData5>036314845</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-21 11:20:29",103.238.107.131,/?wc-ajax=checkout,"CGMPI Response: 140682 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-21 14:20"",""requestId"":{},""tranId"":""18559286"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""9390"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1619004033415"",""mpiValidation"":""autoComm"",""token"":""25549e6f-dcdb-427a-aa3d-596baf80b8d8"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=25549e6f-dcdb-427a-aa3d-596baf80b8d8"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_Ug1zkbofNJnqB%26amp;amp;order_id=140682%26amp;amp;redirect%26amp;amp;_wpnonce=87099768a2%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""telavivinet@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140682"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18559286"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""tlv host"",""userData5"":""036314845""}}}}"
+"2021-04-21 12:23:59",103.238.107.131,/?wc-ajax=checkout,"CGMPI Request: 140682 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_Ug1zkbofNJnqB%26amp;order_id=140682%26amp;redirect%26amp;_wpnonce=0f3f3a6ecc%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>9390</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140682</description>
+         <user>140682</user>
+         <mid>15494</mid>
+         <uniqueid>1619007841222</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>telavivinet@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>tlv host</userData4>									  
+          <userData5>036314845</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-21 12:23:59",103.238.107.131,/?wc-ajax=checkout,"CGMPI Response: 140682 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-21 15:24"",""requestId"":{},""tranId"":""18559415"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""9390"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1619007841222"",""mpiValidation"":""autoComm"",""token"":""11cdc5a1-843f-42ff-bbe2-0abeeae0e3db"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=11cdc5a1-843f-42ff-bbe2-0abeeae0e3db"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_Ug1zkbofNJnqB%26amp;amp;order_id=140682%26amp;amp;redirect%26amp;amp;_wpnonce=0f3f3a6ecc%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""telavivinet@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140682"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18559415"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""tlv host"",""userData5"":""036314845""}}}}"
+"2021-04-22 12:00:32",212.76.99.142,/?wc-ajax=checkout,"CGMPI Request: 140686 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_HwsRkjg1cq9pb%26amp;order_id=140686%26amp;redirect%26amp;_wpnonce=62c26adc88%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>6790</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140686</description>
+         <user>140686</user>
+         <mid>15494</mid>
+         <uniqueid>1619092834552</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>estherudnick@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>אסתר רודניק</userData4>									  
+          <userData5>0525988885</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-04-22 12:00:32",212.76.99.142,/?wc-ajax=checkout,"CGMPI Response: 140686 {""response"":{""command"":""doDeal"",""dateTime"":""2021-04-22 15:00"",""requestId"":{},""tranId"":""18563700"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""6790"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1619092834552"",""mpiValidation"":""autoComm"",""token"":""796055f3-1996-42c3-bc16-351e5a7184fd"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=796055f3-1996-42c3-bc16-351e5a7184fd"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_HwsRkjg1cq9pb%26amp;amp;order_id=140686%26amp;amp;redirect%26amp;amp;_wpnonce=62c26adc88%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""estherudnick@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140686"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18563700"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d0\u05e1\u05ea\u05e8 \u05e8\u05d5\u05d3\u05e0\u05d9\u05e7"",""userData5"":""0525988885""}}}}"
+"2021-04-22 12:02:14",212.76.99.142,/wc-api/creditguard_callback?uniqueID=1619092834552&lang=HE&authNumber=&cgUid=18563700&responseMac=a15a8238b882e9b3e085f56b28a307e7bbdbd517b9f811528abb0498d398b74c&cardToken=1063798748471472&cardExp=0326&personalId=&cardMask=375516*****1472&txId=796055f3-1996-42c3-bc16-351e5a7184fd&numberOfPayments=0&firstPayment=&periodicalPayment=&userData5=0525988885&userData4=%D7%90%D7%A1%D7%AA%D7%A8%20%D7%A8%D7%95%D7%93%D7%A0%D7%99%D7%A7&userData1=yes,"נתונים שחזרו: {""uniqueID"":""1619092834552"",""lang"":""HE"",""authNumber"":"""",""cgUid"":""18563700"",""responseMac"":""a15a8238b882e9b3e085f56b28a307e7bbdbd517b9f811528abb0498d398b74c"",""cardToken"":""1063798748471472"",""cardExp"":""0326"",""personalId"":"""",""cardMask"":""375516*****1472"",""txId"":""796055f3-1996-42c3-bc16-351e5a7184fd"",""numberOfPayments"":""0"",""firstPayment"":"""",""periodicalPayment"":"""",""userData5"":""0525988885"",""userData4"":""\u05d0\u05e1\u05ea\u05e8 \u05e8\u05d5\u05d3\u05e0\u05d9\u05e7"",""userData1"":""yes"",""woocommerce-login-nonce"":null,""_wpnonce"":null,""woocommerce-reset-password-nonce"":null}"
+"2021-06-01 07:23:50",212.76.99.142,/?wc-ajax=checkout,"CGMPI Request: 140765 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_HmmdsUwb6ybcm%26amp;order_id=140765%26amp;redirect%26amp;_wpnonce=1d31f06282%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>4090</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140765</description>
+         <user>140765</user>
+         <mid>15494</mid>
+         <uniqueid>1622532234128</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>2226630@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>יצחק קאמפף</userData4>									  
+          <userData5>0542226630</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-06-01 07:23:50",212.76.99.142,/?wc-ajax=checkout,"CGMPI Response: 140765 {""response"":{""command"":""doDeal"",""dateTime"":""2021-06-01 10:23"",""requestId"":{},""tranId"":""18730435"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""4090"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1622532234128"",""mpiValidation"":""autoComm"",""token"":""3cebdd03-0d6e-4154-95d2-b48dc52e0b7f"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=3cebdd03-0d6e-4154-95d2-b48dc52e0b7f"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_HmmdsUwb6ybcm%26amp;amp;order_id=140765%26amp;amp;redirect%26amp;amp;_wpnonce=1d31f06282%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""2226630@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140765"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18730435"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d9\u05e6\u05d7\u05e7 \u05e7\u05d0\u05de\u05e4\u05e3"",""userData5"":""0542226630""}}}}"
+"2021-06-06 12:15:30",93.173.7.42,/?wc-ajax=checkout,"CGMPI Request: 140911 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_uoNo6jyKHhkWe%26amp;order_id=140911%26amp;redirect%26amp;_wpnonce=c9302292c0%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>29140</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140911</description>
+         <user>140911</user>
+         <mid>15494</mid>
+         <uniqueid>1622981732909</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>miki@imko.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>מיקי בדיקה</userData4>									  
+          <userData5>0500000000</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-06-06 12:15:30",93.173.7.42,/?wc-ajax=checkout,"CGMPI Response: 140911 {""response"":{""command"":""doDeal"",""dateTime"":""2021-06-06 15:15"",""requestId"":{},""tranId"":""18752525"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""29140"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1622981732909"",""mpiValidation"":""autoComm"",""token"":""d06cff49-3cb9-490c-9230-2287db0cd684"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=d06cff49-3cb9-490c-9230-2287db0cd684"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_uoNo6jyKHhkWe%26amp;amp;order_id=140911%26amp;amp;redirect%26amp;amp;_wpnonce=c9302292c0%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""miki@imko.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140911"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18752525"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05de\u05d9\u05e7\u05d9 \u05d1\u05d3\u05d9\u05e7\u05d4"",""userData5"":""0500000000""}}}}"
+"2021-06-06 12:26:44",212.76.99.142,/?wc-ajax=checkout,"CGMPI Request: 140918 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_AWyF1xIbDrDhl%26amp;order_id=140918%26amp;redirect%26amp;_wpnonce=4af39cb415%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>9000</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140918</description>
+         <user>140918</user>
+         <mid>15494</mid>
+         <uniqueid>1622982406638</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>benny@bennys.co.il</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>בני קאמפף</userData4>									  
+          <userData5>0525988885</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-06-06 12:26:44",212.76.99.142,/?wc-ajax=checkout,"CGMPI Response: 140918 {""response"":{""command"":""doDeal"",""dateTime"":""2021-06-06 15:26"",""requestId"":{},""tranId"":""18752542"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""9000"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1622982406638"",""mpiValidation"":""autoComm"",""token"":""1309fe4e-e11d-4ab2-9dca-c080fe9aba1e"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=1309fe4e-e11d-4ab2-9dca-c080fe9aba1e"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_AWyF1xIbDrDhl%26amp;amp;order_id=140918%26amp;amp;redirect%26amp;amp;_wpnonce=4af39cb415%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""benny@bennys.co.il"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140918"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18752542"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d1\u05e0\u05d9 \u05e7\u05d0\u05de\u05e4\u05e3"",""userData5"":""0525988885""}}}}"
+"2021-06-06 12:27:45",212.76.99.142,/wc-api/creditguard_callback?uniqueID=1622982406638&lang=HE&authNumber=&cgUid=18752542&responseMac=078fe6619d9aba0d1e3fec5830d6950216555384d9f8613399fbb860ebd6d230&cardToken=1063798748471472&cardExp=0326&personalId=&cardMask=375516*****1472&txId=1309fe4e-e11d-4ab2-9dca-c080fe9aba1e&numberOfPayments=0&firstPayment=&periodicalPayment=&userData5=0525988885&userData4=%D7%91%D7%A0%D7%99%20%D7%A7%D7%90%D7%9E%D7%A4%D7%A3&userData1=yes,"נתונים שחזרו: {""uniqueID"":""1622982406638"",""lang"":""HE"",""authNumber"":"""",""cgUid"":""18752542"",""responseMac"":""078fe6619d9aba0d1e3fec5830d6950216555384d9f8613399fbb860ebd6d230"",""cardToken"":""1063798748471472"",""cardExp"":""0326"",""personalId"":"""",""cardMask"":""375516*****1472"",""txId"":""1309fe4e-e11d-4ab2-9dca-c080fe9aba1e"",""numberOfPayments"":""0"",""firstPayment"":"""",""periodicalPayment"":"""",""userData5"":""0525988885"",""userData4"":""\u05d1\u05e0\u05d9 \u05e7\u05d0\u05de\u05e4\u05e3"",""userData1"":""yes"",""woocommerce-login-nonce"":null,""_wpnonce"":null,""woocommerce-reset-password-nonce"":null}"
+"2021-06-09 16:50:22",2.52.68.7,/?wc-ajax=checkout,"CGMPI Request: 140923 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_jO9iZGu6iy638%26amp;order_id=140923%26amp;redirect%26amp;_wpnonce=87dfceabd5%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>4090</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140923</description>
+         <user>140923</user>
+         <mid>15494</mid>
+         <uniqueid>1623257426481</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>avigailmaximov@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>אביגיל מקסימוב</userData4>									  
+          <userData5>0527111624</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-06-09 16:50:22",2.52.68.7,/?wc-ajax=checkout,"CGMPI Response: 140923 {""response"":{""command"":""doDeal"",""dateTime"":""2021-06-09 19:50"",""requestId"":{},""tranId"":""18765040"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""4090"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1623257426481"",""mpiValidation"":""autoComm"",""token"":""484c93fd-f44b-42f2-a0d2-dc1a1992d0bd"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=484c93fd-f44b-42f2-a0d2-dc1a1992d0bd"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_jO9iZGu6iy638%26amp;amp;order_id=140923%26amp;amp;redirect%26amp;amp;_wpnonce=87dfceabd5%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""avigailmaximov@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140923"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18765040"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d0\u05d1\u05d9\u05d2\u05d9\u05dc \u05de\u05e7\u05e1\u05d9\u05de\u05d5\u05d1"",""userData5"":""0527111624""}}}}"
+"2021-06-10 06:51:44",212.76.99.142,/?wc-ajax=checkout,"CGMPI Request: 140924 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_810rFcugOPuiQ%26amp;order_id=140924%26amp;redirect%26amp;_wpnonce=fbb38ec43f%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>11580</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140924</description>
+         <user>140924</user>
+         <mid>15494</mid>
+         <uniqueid>1623307907306</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>2226630@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>יצחק קאמפף</userData4>									  
+          <userData5>0542226630</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-06-10 06:51:44",212.76.99.142,/?wc-ajax=checkout,"CGMPI Response: 140924 {""response"":{""command"":""doDeal"",""dateTime"":""2021-06-10 09:51"",""requestId"":{},""tranId"":""18768963"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""11580"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1623307907306"",""mpiValidation"":""autoComm"",""token"":""a56ee6a0-6ad3-4b1a-ba06-494125161995"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=a56ee6a0-6ad3-4b1a-ba06-494125161995"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_810rFcugOPuiQ%26amp;amp;order_id=140924%26amp;amp;redirect%26amp;amp;_wpnonce=fbb38ec43f%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""2226630@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140924"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18768963"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d9\u05e6\u05d7\u05e7 \u05e7\u05d0\u05de\u05e4\u05e3"",""userData5"":""0542226630""}}}}"
+"2021-06-10 06:52:31",212.76.99.142,/wc-api/creditguard_callback?uniqueID=1623307907306&lang=HE&authNumber=&cgUid=18768963&responseMac=731096944845bd483ef3ebae4ed4aa4ee3935207fb20b7473cc393f7300cdd4c&cardToken=1063798748471472&cardExp=0326&personalId=&cardMask=375516*****1472&txId=a56ee6a0-6ad3-4b1a-ba06-494125161995&numberOfPayments=0&firstPayment=&periodicalPayment=&userData5=0542226630&userData4=%D7%99%D7%A6%D7%97%D7%A7%20%D7%A7%D7%90%D7%9E%D7%A4%D7%A3&userData1=yes,"נתונים שחזרו: {""uniqueID"":""1623307907306"",""lang"":""HE"",""authNumber"":"""",""cgUid"":""18768963"",""responseMac"":""731096944845bd483ef3ebae4ed4aa4ee3935207fb20b7473cc393f7300cdd4c"",""cardToken"":""1063798748471472"",""cardExp"":""0326"",""personalId"":"""",""cardMask"":""375516*****1472"",""txId"":""a56ee6a0-6ad3-4b1a-ba06-494125161995"",""numberOfPayments"":""0"",""firstPayment"":"""",""periodicalPayment"":"""",""userData5"":""0542226630"",""userData4"":""\u05d9\u05e6\u05d7\u05e7 \u05e7\u05d0\u05de\u05e4\u05e3"",""userData1"":""yes"",""woocommerce-login-nonce"":null,""_wpnonce"":null,""woocommerce-reset-password-nonce"":null}"
+"2021-06-10 06:56:34",2.52.68.22,/?wc-ajax=checkout,"CGMPI Request: 140925 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_rfkUmIoGJylOq%26amp;order_id=140925%26amp;redirect%26amp;_wpnonce=986e777fa3%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>4090</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140925</description>
+         <user>140925</user>
+         <mid>15494</mid>
+         <uniqueid>1623308197813</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>avigailmaximov@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>אביגיל מקסימוב</userData4>									  
+          <userData5>0527111624</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-06-10 06:56:34",2.52.68.22,/?wc-ajax=checkout,"CGMPI Response: 140925 {""response"":{""command"":""doDeal"",""dateTime"":""2021-06-10 09:56"",""requestId"":{},""tranId"":""18768982"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""4090"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1623308197813"",""mpiValidation"":""autoComm"",""token"":""ee85ca96-cb16-43a6-808b-ca055009ad71"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=ee85ca96-cb16-43a6-808b-ca055009ad71"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_rfkUmIoGJylOq%26amp;amp;order_id=140925%26amp;amp;redirect%26amp;amp;_wpnonce=986e777fa3%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""avigailmaximov@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140925"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18768982"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""\u05d0\u05d1\u05d9\u05d2\u05d9\u05dc \u05de\u05e7\u05e1\u05d9\u05de\u05d5\u05d1"",""userData5"":""0527111624""}}}}"
+"2021-06-10 07:00:27",2.52.68.22,/wc-api/creditguard_callback?uniqueID=1623308197813&lang=HE&authNumber=&cgUid=18768982&responseMac=eacf750a42aec6ed15a37ea9a1423ae6cbecc98df134490b5fbeb585dcc17f90&cardToken=1035005879347884&cardExp=1225&personalId=&cardMask=458017******7884&txId=ee85ca96-cb16-43a6-808b-ca055009ad71&numberOfPayments=0&firstPayment=&periodicalPayment=&userData5=0527111624&userData4=%D7%90%D7%91%D7%99%D7%92%D7%99%D7%9C%20%D7%9E%D7%A7%D7%A1%D7%99%D7%9E%D7%95%D7%91&userData1=yes,"נתונים שחזרו: {""uniqueID"":""1623308197813"",""lang"":""HE"",""authNumber"":"""",""cgUid"":""18768982"",""responseMac"":""eacf750a42aec6ed15a37ea9a1423ae6cbecc98df134490b5fbeb585dcc17f90"",""cardToken"":""1035005879347884"",""cardExp"":""1225"",""personalId"":"""",""cardMask"":""458017******7884"",""txId"":""ee85ca96-cb16-43a6-808b-ca055009ad71"",""numberOfPayments"":""0"",""firstPayment"":"""",""periodicalPayment"":"""",""userData5"":""0527111624"",""userData4"":""\u05d0\u05d1\u05d9\u05d2\u05d9\u05dc \u05de\u05e7\u05e1\u05d9\u05de\u05d5\u05d1"",""userData1"":""yes"",""woocommerce-login-nonce"":null,""_wpnonce"":null,""woocommerce-reset-password-nonce"":null}"
+"2021-06-11 05:43:16",103.238.106.183,/?wc-ajax=checkout,"CGMPI Request: 140926 user=benisbr&password=fVL8@RSe&int_in=<ashrait><request>
+<version>2000</version>
+<language>HEB</language>
+<dateTime></dateTime>
+<command>doDeal</command>
+<doDeal>
+        <successUrl>http://axp.co.il/wc-api/creditguard_callback?</successUrl>
+        <errorUrl></errorUrl>
+        <cancelUrl>http://axp.co.il/cart/?cancel_order=true%26amp;order=wc_order_jAWC2wK0Eh5Xh%26amp;order_id=140926%26amp;redirect%26amp;_wpnonce=0005dd9a11%26amp;cancel_cg_payment=1%26amp;cg_iframe=true%26amp;</cancelUrl>
+         <terminalNumber>8879125012</terminalNumber>
+         <mainTerminalNumber/>
+         <cardNo>CGMPI</cardNo>
+         <total>6490</total>
+         <transactionType>Debit</transactionType>
+         <currency>ILS</currency>
+         <transactionCode>Phone</transactionCode>
+         <authNumber/><creditType>RegularCredit</creditType>
+         <validation>TxnSetup</validation>
+         <dealerNumber/>
+         <description>מספר הזמנה 140926</description>
+         <user>140926</user>
+         <mid>15494</mid>
+         <uniqueid>1623390198437</uniqueid>
+         <mpiValidation>autoComm</mpiValidation>
+         <email>tettestst@gmail.com</email>
+         <clientIP/>
+         <customerData>
+          <userData1>yes</userData1>
+          <userData2></userData2>
+          <userData3></userData3>									  
+          <userData4>testt demo</userData4>									  
+          <userData5>7896548596</userData5>
+          <userData6></userData6>
+          <userData7/>
+          <userData8/>
+          <userData9/>
+          <userData10/>
+         </customerData>
+</doDeal>
+</request>
+</ashrait>"
+"2021-06-11 05:43:16",103.238.106.183,/?wc-ajax=checkout,"CGMPI Response: 140926 {""response"":{""command"":""doDeal"",""dateTime"":""2021-06-11 08:43"",""requestId"":{},""tranId"":""18773217"",""result"":""000"",""message"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""userMessage"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""additionalInfo"":{},""version"":""2000"",""language"":""Heb"",""doDeal"":{""status"":""000"",""statusText"":""\u05e2\u05e1\u05e7\u05d4 \u05ea\u05e7\u05d9\u05e0\u05d4"",""extendedStatus"":{},""extendedStatusText"":{},""extendedUserMessage"":{},""terminalNumber"":""8879125012"",""cardBin"":""CG"",""cardMask"":""CGMPI"",""cardLength"":""5"",""cardNo"":""CGMPI"",""cardName"":{},""cardExpiration"":{},""cardType"":{""@attributes"":{""code"":""""}},""creditCompany"":{""@attributes"":{""code"":""""}},""cardBrand"":{""@attributes"":{""code"":""""}},""cardAcquirer"":{""@attributes"":{""code"":""""}},""serviceCode"":{},""transactionType"":""RegularDebit"",""creditType"":""RegularCredit"",""currency"":""ILS"",""baseCurrency"":{},""baseAmount"":{},""transactionCode"":""Phone"",""total"":""6490"",""firstPayment"":{},""periodicalPayment"":{},""numberOfPayments"":{},""paymentsInterest"":{},""mid"":""15494"",""uniqueid"":""1623390198437"",""mpiValidation"":""autoComm"",""token"":""ddb2d982-bf74-4a85-b18a-a10b8a64f867"",""mpiHostedPageUrl"":""https:\/\/cgmpi.creditguard.co.il\/CGMPI_Server\/PerformTransaction?txId=ddb2d982-bf74-4a85-b18a-a10b8a64f867"",""returnUrl"":{},""successUrl"":""http:\/\/axp.co.il\/wc-api\/creditguard_callback?"",""errorUrl"":{},""cancelUrl"":""http:\/\/axp.co.il\/cart\/?cancel_order=true%26amp;amp;order=wc_order_jAWC2wK0Eh5Xh%26amp;amp;order_id=140926%26amp;amp;redirect%26amp;amp;_wpnonce=0005dd9a11%26amp;amp;cancel_cg_payment=1%26amp;amp;cg_iframe=true%26amp;amp;"",""clubId"":{},""validation"":""TxnSetup"",""idStatus"":{""@attributes"":{""code"":""""}},""cvvStatus"":{""@attributes"":{""code"":""""}},""authSource"":""MPIServer"",""authNumber"":{},""fileNumber"":{},""slaveTerminalNumber"":{},""slaveTerminalSequence"":{},""eci"":{},""clientIp"":{},""email"":""tettestst@gmail.com"",""cavv"":{""@attributes"":{""code"":""""}},""user"":""140926"",""addonData"":{},""supplierNumber"":{},""id"":{},""shiftId1"":{},""shiftId2"":{},""shiftId3"":{},""shiftTxnDate"":{},""cgUid"":""18773217"",""cardHash"":{},""customerData"":{""userData1"":""yes"",""userData4"":""testt demo"",""userData5"":""7896548596""}}}}"

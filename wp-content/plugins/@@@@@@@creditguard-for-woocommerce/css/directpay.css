@@ -1,0 +1,33 @@
+.card-wrapper{
+    direction: ltr;
+    text-align: left;
+    max-width: 350px;
+    width: 100%;
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+}
+.dp_card_block{
+    width: 100%;
+    max-width: 350px;
+    float: left;
+    display: block;
+}
+.dp_card_block .form-row.form-row-wide, .dp_card_block .form-row.form-row-first, .dp_card_block .form-row.form-row-last{
+    padding-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.dp_card_block .form-row-first, .dp_card_block .form-row-last{
+    width: 44% !important;
+}
+
+.dp_card_block .form-row-first{
+    padding-right: 0px !important;
+}
+.dp_card_block .form-row-last{
+    padding-left: 0px !important;
+}
+#wc_directpay_card_no{
+    direction: ltr !important;
+}

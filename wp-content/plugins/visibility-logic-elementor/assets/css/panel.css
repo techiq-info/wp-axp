@@ -1,0 +1,87 @@
+.elementor-panel .elementor-tab-control-stax-visibility.elementor-active {
+    background-image: linear-gradient(180deg, #7b5bcf, #7b5bcf) !important;
+    border-bottom-color: #673ab7 !important;
+}
+
+.elementor-panel .elementor-tab-control-stax-visibility.elementor-active a {
+    color: #f4f0ff !important;
+}
+
+.elementor-panel .elementor-tab-control-stax-visibility a {
+    color: #fff;
+}
+
+.elementor-panel .elementor-tab-control-stax-visibility a:before {
+    font-family: eicons;
+    content: '\e8ac';
+}
+
+.elementor-control-stax_visibility_pro_user_meta,
+.elementor-control-stax_visibility_pro_ip_referrer,
+.elementor-control-stax_visibility_pro_browser_type,
+.elementor-control-stax_visibility_pro_date_time,
+.elementor-control-stax_visibility_pro_post_page,
+.elementor-control-stax_visibility_pro_conditional_tags,
+.elementor-control-stax_visibility_pro_fallback {
+    pointer-events: none;
+}
+
+.elementor-control-stax_visibility_pro_user_meta .elementor-panel-heading-toggle,
+.elementor-control-stax_visibility_pro_ip_referrer .elementor-panel-heading-toggle,
+.elementor-control-stax_visibility_pro_browser_type .elementor-panel-heading-toggle,
+.elementor-control-stax_visibility_pro_date_time .elementor-panel-heading-toggle,
+.elementor-control-stax_visibility_pro_post_page .elementor-panel-heading-toggle,
+.elementor-control-stax_visibility_pro_conditional_tags .elementor-panel-heading-toggle,
+.elementor-control-stax_visibility_pro_fallback .elementor-panel-heading-toggle {
+    display: none;
+}
+
+.elementor-control-stax_visibility_pro_user_meta .elementor-panel-heading-title,
+.elementor-control-stax_visibility_pro_ip_referrer .elementor-panel-heading-title,
+.elementor-control-stax_visibility_pro_browser_type .elementor-panel-heading-title,
+.elementor-control-stax_visibility_pro_date_time .elementor-panel-heading-title,
+.elementor-control-stax_visibility_pro_post_page .elementor-panel-heading-title,
+.elementor-control-stax_visibility_pro_conditional_tags .elementor-panel-heading-title,
+.elementor-control-stax_visibility_pro_fallback .elementor-panel-heading-title {
+    position: relative;
+}
+
+.elementor-control-stax_visibility_pro_user_meta .elementor-panel-heading-title:after,
+.elementor-control-stax_visibility_pro_ip_referrer .elementor-panel-heading-title:after,
+.elementor-control-stax_visibility_pro_browser_type .elementor-panel-heading-title:after,
+.elementor-control-stax_visibility_pro_date_time .elementor-panel-heading-title:after,
+.elementor-control-stax_visibility_pro_post_page .elementor-panel-heading-title:after,
+.elementor-control-stax_visibility_pro_conditional_tags .elementor-panel-heading-title:after,
+.elementor-control-stax_visibility_pro_fallback .elementor-panel-heading-title:after {
+    content: 'PRO';
+    position: absolute;
+    top: 11px;
+    right: 0;
+    z-index: 2;
+    color: #ffeaea;
+    background: #2e34c2;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 4px 6px;
+    border-radius: 4px;
+}
+
+.elementor-control-old_version_note .elementor-control-content {
+    padding: 10px;
+    background: #2d2d2d;
+    border-radius: 4px;
+}
+
+.elementor-control-old_version_note .elementor-control-title {
+    font-weight: 900;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    color: #ff2b2b;
+}
+
+.elementor-control-old_version_note .visibility-old-version-notice {
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 300;
+    color: #fff;
+}
